@@ -1,3 +1,4 @@
-# Practicas-SeguridadInformatica
- -Alex Urquiza
- Colaborador: Michael Galleano
+# Practicas - Seguridad Informatica
+Desarrolladores
+ - Alex Urquiza
+ - Colaborador: Michael Galleano
